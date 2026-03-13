@@ -69,8 +69,5 @@ Feature importance analysis showed that the most influential factors include:
 - Seaborn
 - Jupyter Notebook
 
-## Project Status
-The project is currently in the **model evaluation and validation phase**, where the team is analyzing performance metrics and improving the predictive model.
-
 ## Team
 Developed by **Cohort 09 Internship Team** as part of the Machine Learning training program.
