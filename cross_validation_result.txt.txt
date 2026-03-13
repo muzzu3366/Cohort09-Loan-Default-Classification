@@ -1,0 +1,2 @@
+Cross Validation Scores: [0.745, 0.736, 0.717, 0.714, 0.737]
+Average Cross Validation Score: 0.7298
